@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "username": "adarsh24",
+            "name": "Adarsh Singh",
+            "email": "adarshrig@gmail.com",
+            "newsPreferences": [
+                "technology",
+                "movies",
+                "music"
+            ],
+            "password": "$2b$10$6PLziqk75QKRHyq2s6Px/.Ev.N88IWALTvyGFHmulCMeO0.2g/pG6"
+        },
+        {
+            "username": "test124",
+            "name": "Test User3",
+            "email": "testuser3@gmail.com",
+            "newsPreferences": [
+                "movies",
+                "science",
+                "comedy"
+            ],
+            "password": "$2b$08$ZqeaanXX7.2NdwOzoaJJfe8Y5IrEwCpm3seC5qXUM38TxZq.76Rry"
+        },
+        {
+            "username": "test1",
+            "name": "Test User",
+            "email": "testuser@gmail.com",
+            "newsPreferences": [],
+            "password": "$2b$08$WVsywXnrsa2cZZAcDcz5E.71PDOZOs1uh.9hvZos6K4dOaLp1rG/a"
+        }
+    ]
+}
