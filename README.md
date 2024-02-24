@@ -26,4 +26,4 @@ Copy the content of the env-example and make a separate file known as .env and a
 - GET /news: Fetch news articles based on the logged-in user's preferences.
 
 ### Postman Collection
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/23240361-6219f7da-7d74-404f-95c4-677274533f23?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D23240361-6219f7da-7d74-404f-95c4-677274533f23%26entityType%3Dcollection%26workspaceId%3Dec1416e1-60a3-4ccd-81be-f2910322aa82)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/32783578-fed44758-7131-41ed-90fc-ed3997cb8851?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D23240361-6219f7da-7d74-404f-95c4-677274533f23%26entityType%3Dcollection%26workspaceId%3Dec1416e1-60a3-4ccd-81be-f2910322aa82)
